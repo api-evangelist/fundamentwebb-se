@@ -64,13 +64,41 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Fundament is a web agency based in Jönköping, Sweden, offering modern, mobile‑responsive websites for craftsmen and small businesses across the country. They provide design, development, hosting, SEO, and ongoing maintenance, with transparent pricing and a focus on helping clients increase online visibility and acquire more customers.
+Fundament is a web agency based in Jönköping, Sweden, offering modern, mobile‑responsive websites for craftsmen and small businesses across the country. They provide design, development, hosting, SEO, and ongoing maintenance, with transparent pricing and a focus on helping clients increase online visibility and acquire more customers. Their services include custom website design, e‑commerce solutions, and continuous support to ensure a strong online presence for local businesses. By combining aesthetic design with technical expertise, Fundament helps clients attract more customers and grow their digital footprint.
 
 **Areas:** WebAgency · WebDesign · SmallBusiness · Sweden · Jönköping
 
 ## Fundament on APIs.io
 
 Everything profiled for Fundament is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/fundamentwebb-se/](https://apis.io/providers/fundamentwebb-se/)** — or go straight to one of the APIs or properties below.
+
+### APIs (3)
+
+- [Fundament Company API](https://apis.io/apis/fundamentwebb-se/fundamentwebb-se-company-api/) — Company profiles (Sweden, Norway, Finland, United Kingdom)
+- [Fundament Financials API](https://apis.io/apis/fundamentwebb-se/fundamentwebb-se-financials-api/) — Annual report figures
+- [Fundament Free API](https://apis.io/apis/fundamentwebb-se/fundamentwebb-se-free-api/) — Free helpers
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Fundamentwebb Se Agentic Access](https://apis.io/agentic-access/fundamentwebb-se/fundamentwebb-se-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Fundament API Rules](https://apis.io/rules/fundamentwebb-se/fundamentwebb-se-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Fundamentwebb Se Domain Security](https://apis.io/security/fundamentwebb-se/fundamentwebb-se-domain-security/)
 
 ## Where to find this API
 
@@ -80,7 +108,47 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/fundamentwebb-se/](https://apis.io/providers/fundamentwebb-se/).
+**Kin Score 27.4** — thin · rubric 0.27.0 · scored 2026-11-09
+
+| Facet | Score |
+|---|---|
+| Discoverability | 61.7 |
+| Contract quality | 44.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 6.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 33.0** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 10.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/fundamentwebb-se/](https://apis.io/providers/fundamentwebb-se/).
 
 ## How this profile is made
 
